@@ -17,7 +17,6 @@ feign:
     enabled: true
 
 
-
 eureka:               #找到eureka并注册服务
   client:
     service-url:
